@@ -6,3 +6,7 @@ class Division{
       System.out.println("The value is "+c);
  }
 } 
+
+
+Output:
+The value is 2
